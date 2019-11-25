@@ -1,0 +1,5 @@
+"W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_bsp\board\rdkrx63n\lowlvl.src"
+-cpu=rx600
+-debug
+-output="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\Debug\lowlvl.obj"
+-nologo

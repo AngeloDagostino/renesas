@@ -1,0 +1,2 @@
+GPIO_IRQ
+This application shows how to setup port pin for simple I/O and interrupts. Counts switch presses and releases.

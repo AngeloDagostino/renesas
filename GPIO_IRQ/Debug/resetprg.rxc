@@ -1,0 +1,14 @@
+-cpu=rx600
+-lang=c99
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_bsp"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_glyph"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_glyph\src"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_glyph\src\glyph"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_rspi_rx600"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_rspi_rx600\src"
+-include="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\src"
+-output=obj="W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\Debug\resetprg.obj"
+-debug
+-speed
+"W:\RDK_Updates\RX63N\Originals\Workspace\GPIO_IRQ\GPIO_IRQ\r_bsp\board\rdkrx63n\resetprg.c"
+-nologo
