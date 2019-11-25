@@ -58,7 +58,6 @@ void main(void)
     /* Initialize LCD */
     lcd_initialize();
     
-
     /* Clear LCD */
     lcd_clear();
     
